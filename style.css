@@ -1,0 +1,31 @@
+.container{
+    margin-top: 13%;
+    margin-left: 33%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+    height: 220px;
+    width: 400px;
+    border-radius: 22px;
+
+}
+body{
+    background: black;
+}
+joke{
+    font-size: 22px;
+    font-family: sans-serif;
+    display: block;
+    padding-left: 9px;
+    margin: 6px;
+}
+h2{
+    padding-left: 35px;
+    font-weight: 550;
+    font-style: italic;
+    border-radius: 22px;
+    border-top: 2px solid red;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: black;
+    color: wheat;
+}
